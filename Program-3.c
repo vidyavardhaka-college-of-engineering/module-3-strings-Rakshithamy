@@ -26,7 +26,9 @@ int main() {
            { 
 		c[i] = b[j] ;                                              //Complete the statement
 		i++;
+  }
 	c[i]= '\0' ;                                               //Complete the statement
 	printf("The concatenated string = %s", c);
 	return 0;
 }
+
